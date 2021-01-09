@@ -1,2 +1,2 @@
-# SIRModel
-SIR model for MM asignment 192
+# SIR_Model
+Mathematical Modeling Assignment
